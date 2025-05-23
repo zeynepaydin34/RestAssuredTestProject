@@ -1,4 +1,4 @@
-# RestAssuredTestProject
+# Rest Assured Test Projesi
 
 Bu proje, Java dili kullanılarak geliştirilmiş bir API test otomasyon projesidir. Testlerde **Rest Assured** kütüphanesi ve **JUnit 4** test framework'ü kullanılmıştır. Amaç, JSONPlaceholder API'si üzerinden GET ve POST istekleri göndererek API davranışlarını test etmektir.
 
@@ -16,8 +16,8 @@ Bu proje, Java dili kullanılarak geliştirilmiş bir API test otomasyon projesi
 
 ## 🚀 Kurulum ve Çalıştırma
 
-1. Bu projeyi kendi bilgisayarına klonla:
-2. 
+Bu projeyi kendi bilgisayarına klonla:
+
 git clone https://github.com/zeynepaydin34/RestAssuredTestProject.git
 cd RestAssuredTestProject
 
