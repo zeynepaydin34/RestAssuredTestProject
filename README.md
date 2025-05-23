@@ -17,9 +17,9 @@ Bu proje, Java dili kullanılarak geliştirilmiş bir API test otomasyon projesi
 ## 🚀 Kurulum ve Çalıştırma
 
 Bu projeyi kendi bilgisayarına klonla:
-
-git clone https://github.com/zeynepaydin34/RestAssuredTestProject.git
-cd RestAssuredTestProject
+   ```bash
+   git clone https://github.com/zeynepaydin34/RestAssuredTestProject.git
+   cd RestAssuredTestProject
 
 IntelliJ IDEA veya benzeri bir Java IDE ile projeyi aç.
 
